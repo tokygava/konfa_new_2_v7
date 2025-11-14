@@ -1,0 +1,4 @@
+package_name,flask
+repository_url,https://pypi.org
+mode,real
+version,2.2.5
